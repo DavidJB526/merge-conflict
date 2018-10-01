@@ -1,9 +1,12 @@
 # Skills
 
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
+- skill: C#
+  description: Learned how to code in C# using Microsoft Visual Studio
+- skill: Unity
+  description: Learned how to use the Unity Editor
+  
+  
 # Leadership
 - skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  description: Managed multiple students towards completion of Fraternity/Employer goals
